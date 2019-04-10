@@ -3,7 +3,7 @@
         {
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/Dash/DetailsBanner_2x.png",
-            "thumbnailURL": "../../Content/Dash/StoreBanner_2x.png",
+            "contentIdentifier": "com.wonderworkshop.dashbook",
             "description": "Utilise Swift et un robot Dash pour raconter le d\u00e9roulement d\u2019une journ\u00e9e de comp\u00e9tition automobile.\n\nLes mouvements, les lumi\u00e8res et les sons de Dash donneront vie \u00e0 ton histoire. Tu peux faire appel aux capteurs de Dash pour d\u00e9tecter des obstacles, ou \u00e0 ses sons pour ajouter un \u00e9l\u00e9ment interactif. Une fois que tu auras appris \u00e0 contr\u00f4ler Dash, tu pourras cr\u00e9er ta propre histoire, avec le robot comme personnage principal.",
             "publishedDate": "2017-05-29T12:00:00+00:00",
             "url": "../../Content/Dash/Dash.playgroundbook.zip",
@@ -14,12 +14,12 @@
                 },
                 {
                     "name": "Version\u00a0:",
-                    "value": "1.0"
+                    "value": "1.1"
                 },
                 {
                     "type": "date",
                     "name": "Sortie\u00a0:",
-                    "value": "2017-05-29T12:00:00+00:00"
+                    "value": "2019-04-10T04:50:00+00:00"
                 },
                 {
                     "name": "Langues\u00a0:",
@@ -27,16 +27,16 @@
                 }
             ],
             "title": "Dash",
-            "contentVersion": "1.0",
+            "contentVersion": "1.1",
             "overviewSubtitle": "Vis une histoire palpitante avec un robot plein d\u2019entrain",
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
-            "contentIdentifier": "com.wonderworkshop.dashbook",
-            "sha512": "561663bae118b4725864f4418c3c2e15dfa7dd39e8708180332ef654a423f0ddd27eafddb8b357f659538bfd81edcbc2a23cd297819e764fa0bebb9b10faad39"
+            "lastUpdatedDate": "2019-04-10T04:50:00+00:00",
+            "thumbnailURL": "../../Content/Dash/StoreBanner_2x.png",
+            "sha512": "f43ea9c19d7eaa40c2f17e0a678c2f517c7604e458a882dd8a1f5edb6b12d5b9bff3b09939be6c0f5f416a5320940d9550f7553da32826b855726270abf1cd32"
         },
         {
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/DashTemplate/DetailsBanner_2x.png",
-            "thumbnailURL": "../../Content/DashTemplate/StoreBanner_2x.png",
+            "contentIdentifier": "com.wonderworkshop.playground.template",
             "description": "Utilise Swift pour contr\u00f4ler un robot Dash. D\u00e9couvre les commandes qui le feront bouger, allumer ses lumi\u00e8res, \u00e9mettre des sons et r\u00e9pondre au monde qui l\u2019entoure. Que peux-tu faire faire \u00e0 Dash\u00a0?",
             "publishedDate": "2017-05-29T12:00:00+00:00",
             "url": "../../Content/DashTemplate/DashTemplate.playgroundbook.zip",
@@ -47,12 +47,12 @@
                 },
                 {
                     "name": "Version\u00a0:",
-                    "value": "1.0"
+                    "value": "1.1"
                 },
                 {
                     "type": "date",
                     "name": "Sortie\u00a0:",
-                    "value": "2017-05-29T12:00:00+00:00"
+                    "value": "2019-04-10T04:50:00+00:00"
                 },
                 {
                     "name": "Langues\u00a0:",
@@ -60,16 +60,16 @@
                 }
             ],
             "title": "Mod\u00e8le de Dash",
-            "contentVersion": "1.0",
+            "contentVersion": "1.1",
             "overviewSubtitle": "Programmer Dash le robot",
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
-            "contentIdentifier": "com.wonderworkshop.playground.template",
-            "sha512": "5437ecb9cc6dd2c3cf8fa7835047cad199fc713fcb64989cb3e77c6bb0ca9617a498841664189cb9827d0db3ab6dcadb39681043373aa66ab85cdc7b3a76eb18"
+            "lastUpdatedDate": "2019-04-10T04:50:00+00:00",
+            "thumbnailURL": "../../Content/DashTemplate/StoreBanner_2x.png",
+            "sha512": "2a3060693e70b169417ef7f3b0971fdca18b81f3492a31c77b775e8eeff2a710f37043b9e3ebcfe89276c4d4397caef508537be6dfe997c88531b69323b159d4"
         }
     ],
     "publisherName": "Wonder Workshop",
     "title": "Wonder Workshop",
-    "formatVersion": "1.0",
+    "formatVersion": "1.2",
     "feedIdentifier": "com.wonderworkshop",
     "contactURL": "mailto:support@makewonder.com"
 }
