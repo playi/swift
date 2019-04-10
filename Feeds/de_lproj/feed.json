@@ -1,0 +1,75 @@
+{
+    "documents": [
+        {
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/Dash/de_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/Dash/de_lproj/StoreBanner_2x.png", 
+            "overviewSubtitle": "Mit einem verspielten Roboter Geschichten erz\u00e4hlen", 
+            "description": "Erz\u00e4hle mit Swift und dem Roboter Dash eine Geschichte \u00fcber einen Tag auf der Rennbahn.\n\nErwecke die Geschichte mit den Bewegungen, Lichtern und Sounds von Dash zum Leben. Du kannst Dash mit seinen Sensoren Hindernisse erkennen lassen oder mit Sounds ein interaktives Element hinzuf\u00fcgen. Sobald du gelernt hast, wie man Dash steuert, kannst du deine eigene Geschichte mit dem Roboter als Hauptcharakter schreiben.", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "../../Content/Dash/Dash.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Urheber:", 
+                    "value": "Wonder Workshop, Inc."
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Ver\u00f6ffentlicht:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Sprachen:", 
+                    "value": "Deutsch, Englisch, Franz\u00f6sisch, Chinesisch (Vereinfacht), Japanisch und Spanisch (Lateinamerika)."
+                }
+            ], 
+            "title": "Dash", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.wonderworkshop.dashbook", 
+            "sha512": "561663bae118b4725864f4418c3c2e15dfa7dd39e8708180332ef654a423f0ddd27eafddb8b357f659538bfd81edcbc2a23cd297819e764fa0bebb9b10faad39"
+        }, 
+        {
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/DashTemplate/de_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/DashTemplate/de_lproj/StoreBanner_2x.png", 
+            "overviewSubtitle": "Programmiere Dash, den Roboter", 
+            "description": "Steuere mit Swift den Roboter Dash. Entdecke Befehle, mit denen du Dash dazu bringst, sich zu bewegen, aufzuleuchten, Sounds zu spielen und auf die Welt um ihn herum zu reagieren. Worauf kannst du Dash programmieren?", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "../../Content/DashTemplate/DashTemplate.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Urheber:", 
+                    "value": "Wonder Workshop, Inc."
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Ver\u00f6ffentlicht:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Sprachen:", 
+                    "value": "Deutsch, Englisch, Franz\u00f6sisch, Chinesisch (Vereinfacht), Japanisch und Spanisch (Lateinamerika)."
+                }
+            ], 
+            "title": "Dash-Vorlage", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.wonderworkshop.playground.template", 
+            "sha512": "5437ecb9cc6dd2c3cf8fa7835047cad199fc713fcb64989cb3e77c6bb0ca9617a498841664189cb9827d0db3ab6dcadb39681043373aa66ab85cdc7b3a76eb18"
+        }
+    ], 
+    "publisherName": "Wonder Workshop", 
+    "title": "Wonder Workshop", 
+    "formatVersion": "1.0", 
+    "feedIdentifier": "com.wonderworkshop", 
+    "contactURL": "mailto:replaceme@with-something-else.com"
+}
