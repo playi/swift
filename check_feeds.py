@@ -26,7 +26,7 @@ def compare_documents(source_docs, target_docs):
                     dirty = True
                     doc[i] = source_doc[i]
         else:
-            print("Error: could not find source doc for " + doc)
+            print("Error: could not find source doc for " + str(doc))
 
         return_docs.append(doc)
     if dirty:
