@@ -3,10 +3,10 @@
         {
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/Dash/DetailsBanner_2x.png",
-            "contentIdentifier": "com.wonderworkshop.dashbook",
+            "thumbnailURL": "../../Content/Dash/StoreBanner_2x.png",
             "description": "\u5229\u7528 Swift \u548c Dash \u673a\u5668\u4eba\u8bb2\u6545\u4e8b\uff0c\u6545\u4e8b\u5185\u5bb9\u662f\u7ade\u8d5b\u4f1a\u4e0a\u7684\u4e00\u5929\u3002\n\n\u5229\u7528 Dash \u7684\u52a8\u4f5c\u3001\u706f\u5149\u548c\u58f0\u97f3\uff0c\u8ba9\u6545\u4e8b\u66f4\u52a0\u751f\u52a8\u3002\u4f60\u8fd8\u53ef\u4ee5\u7528 Dash \u63a2\u6d4b\u969c\u788d\u6216\u58f0\u97f3\u7684\u4f20\u611f\u5668\uff0c\u6765\u589e\u52a0\u4ea4\u4e92\u5f0f\u5143\u7d20\u3002\u5b66\u4f1a\u5982\u4f55\u63a7\u5236 Dash \u540e\uff0c\u4f60\u53ef\u4ee5\u81ea\u5df1\u7f16\u4e00\u4e2a\u4ee5\u673a\u5668\u4eba\u4e3a\u4e3b\u89d2\u7684\u6545\u4e8b\u3002",
             "publishedDate": "2017-05-29T12:00:00+00:00",
-            "url": "../../Content/Dash/Dash.playgroundbook.zip",
+            "url": "../../Content/Dash/dashbook.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "\u53d1\u5e03\u8005\uff1a",
@@ -29,14 +29,14 @@
             "title": "Dash",
             "contentVersion": "1.1",
             "overviewSubtitle": "\u901a\u8fc7\u8da3\u5473\u673a\u5668\u4eba\u8bb2\u6545\u4e8b",
-            "lastUpdatedDate": "2019-04-10T04:50:00+00:00",
-            "thumbnailURL": "../../Content/Dash/StoreBanner_2x.png",
-            "sha512": "f43ea9c19d7eaa40c2f17e0a678c2f517c7604e458a882dd8a1f5edb6b12d5b9bff3b09939be6c0f5f416a5320940d9550f7553da32826b855726270abf1cd32"
+            "lastUpdatedDate": "2019-04-10T20:50:00+00:00",
+            "contentIdentifier": "com.wonderworkshop.dashbook",
+            "sha512": "9729d78a569061fd6cbe8cdc8e80d043bd2d87ce23fdbcb9b498e81ecd5192cae22fb2fd1b177c5f5cb342dea899aa3f9427b14a00eeaebabac3cc916dcb15ad"
         },
         {
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/DashTemplate/DetailsBanner_2x.png",
-            "contentIdentifier": "com.wonderworkshop.playground.template",
+            "thumbnailURL": "../../Content/DashTemplate/StoreBanner_2x.png",
             "description": "\u4f7f\u7528 Swift \u63a7\u5236 Dash \u673a\u5668\u4eba\u3002\u63a2\u7d22\u8ba9 Dash \u79fb\u52a8\u3001\u4eae\u706f\u3001\u64ad\u653e\u58f0\u97f3\u4ee5\u53ca\u54cd\u5e94\u5468\u56f4\u4e16\u754c\u7684\u547d\u4ee4\u3002\u4f60\u53ef\u4ee5\u901a\u8fc7\u7f16\u7a0b\u8ba9 Dash \u505a\u4ec0\u4e48\uff1f",
             "publishedDate": "2017-05-29T12:00:00+00:00",
             "url": "../../Content/DashTemplate/DashTemplate.playgroundbook.zip",
@@ -62,9 +62,9 @@
             "title": "Dash \u6a21\u677f",
             "contentVersion": "1.1",
             "overviewSubtitle": "\u7ed9\u673a\u5668\u4eba Dash \u7f16\u7a0b",
-            "lastUpdatedDate": "2019-04-10T04:50:00+00:00",
-            "thumbnailURL": "../../Content/DashTemplate/StoreBanner_2x.png",
-            "sha512": "2a3060693e70b169417ef7f3b0971fdca18b81f3492a31c77b775e8eeff2a710f37043b9e3ebcfe89276c4d4397caef508537be6dfe997c88531b69323b159d4"
+            "lastUpdatedDate": "2019-04-10T20:50:00+00:00",
+            "contentIdentifier": "com.wonderworkshop.playground.template",
+            "sha512": "7e4dbd33b36255061eaa4fddb4293fe236c9813ea43a40a5cd94b59ad33d70170ce9e3aeb4dee2d33161d9967cfaee8feee14380a92bbc76511eda579f01235b"
         }
     ],
     "publisherName": "Wonder Workshop",

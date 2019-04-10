@@ -7,7 +7,7 @@
             "overviewSubtitle": "Storytelling with a Playful Robot", 
             "description": "Use Swift and a Dash robot to tell a story about a day at the races.\n\nBring the story to life using Dash\u2019s motion, lights, and sounds. You can use Dash\u2019s sensors that detect obstacles or sounds to add an interactive element, too. Once you\u2019ve learned how to control Dash, you can create your own story with the robot as the main character.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/Dash/Dash.playgroundbook.zip", 
+            "url": "../../Content/Dash/dashbook.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -29,9 +29,9 @@
             ], 
             "title": "Dash", 
             "contentVersion": "1.1", 
-            "lastUpdatedDate": "2019-04-10T04:50:00+00:00", 
+            "lastUpdatedDate": "2019-04-10T20:50:00+00:00", 
             "contentIdentifier": "com.wonderworkshop.dashbook", 
-            "sha512": "f43ea9c19d7eaa40c2f17e0a678c2f517c7604e458a882dd8a1f5edb6b12d5b9bff3b09939be6c0f5f416a5320940d9550f7553da32826b855726270abf1cd32"
+            "sha512": "9729d78a569061fd6cbe8cdc8e80d043bd2d87ce23fdbcb9b498e81ecd5192cae22fb2fd1b177c5f5cb342dea899aa3f9427b14a00eeaebabac3cc916dcb15ad"
         }, 
         {
             "previewImageURLs": [], 
@@ -62,9 +62,9 @@
             ], 
             "title": "Dash Template", 
             "contentVersion": "1.1", 
-            "lastUpdatedDate": "2019-04-10T04:50:00+00:00", 
+            "lastUpdatedDate": "2019-04-10T20:50:00+00:00", 
             "contentIdentifier": "com.wonderworkshop.playground.template", 
-            "sha512": "68658e5893c8c3e5cfcce75920cc4b4cea2dfef56bdba59b79a3d01f2efa7df824b1d8050e01db92b61475a76bb37191a13632b49d236839b24b60df596f5edf"
+            "sha512": "7e4dbd33b36255061eaa4fddb4293fe236c9813ea43a40a5cd94b59ad33d70170ce9e3aeb4dee2d33161d9967cfaee8feee14380a92bbc76511eda579f01235b"
         }
     ], 
     "publisherName": "Wonder Workshop", 
