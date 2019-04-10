@@ -2,8 +2,8 @@
     "documents": [
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/Dash/en_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/Dash/en_lproj/StoreBanner_2x.png", 
+            "bannerImageURL": "../../Content/Dash/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/Dash/StoreBanner_2x.png", 
             "overviewSubtitle": "Storytelling with a Playful Robot", 
             "description": "Use Swift and a Dash robot to tell a story about a day at the races.\n\nBring the story to life using Dash\u2019s motion, lights, and sounds. You can use Dash\u2019s sensors that detect obstacles or sounds to add an interactive element, too. Once you\u2019ve learned how to control Dash, you can create your own story with the robot as the main character.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
@@ -35,8 +35,8 @@
         }, 
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/DashTemplate/en_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/DashTemplate/en_lproj/StoreBanner_2x.png", 
+            "bannerImageURL": "../../Content/DashTemplate/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/DashTemplate/StoreBanner_2x.png", 
             "overviewSubtitle": "Program Dash the Robot", 
             "description": "Use Swift to control a Dash robot. Explore commands that make Dash move, light up, play sounds, and respond to the world around it. What can you program Dash to do?", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
