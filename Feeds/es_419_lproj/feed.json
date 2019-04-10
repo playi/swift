@@ -1,75 +1,75 @@
 {
     "documents": [
         {
-            "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/Dash/es_419_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/Dash/es_419_lproj/StoreBanner_2x.png", 
-            "overviewSubtitle": "El cuentacuentos y el robot travieso", 
-            "description": "Usa a Dash el robot junto con c\u00f3digo Swift para contar una historia sobre el d\u00eda de la carrera.\n\nDale vida a tu historia mediante los sonidos, luces y movimientos de Dash. Puedes usar los sensores de Dash para detectar obst\u00e1culos, o tambi\u00e9n puedes usar los sonidos como elemento interactivo. Una vez que hayas aprendido a controlar a Dash, puedes crear tu propia historia con el robot como el personaje principal.", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/Dash/Dash.playgroundbook.zip", 
+            "previewImageURLs": [],
+            "bannerImageURL": "../../Content/Dash/en_lproj/DetailsBanner_2x.png",
+            "contentIdentifier": "com.wonderworkshop.dashbook",
+            "description": "Usa a Dash el robot junto con c\u00f3digo Swift para contar una historia sobre el d\u00eda de la carrera.\n\nDale vida a tu historia mediante los sonidos, luces y movimientos de Dash. Puedes usar los sensores de Dash para detectar obst\u00e1culos, o tambi\u00e9n puedes usar los sonidos como elemento interactivo. Una vez que hayas aprendido a controlar a Dash, puedes crear tu propia historia con el robot como el personaje principal.",
+            "publishedDate": "2017-05-29T12:00:00+00:00",
+            "url": "../../Content/Dash/Dash.playgroundbook.zip",
             "additionalInformation": [
                 {
-                    "name": "Editor:", 
+                    "name": "Editor:",
                     "value": "Wonder Workshop, Inc."
-                }, 
+                },
                 {
-                    "name": "Versi\u00f3n:", 
+                    "name": "Versi\u00f3n:",
                     "value": "1.0"
-                }, 
+                },
                 {
-                    "type": "date", 
-                    "name": "Publicado:", 
+                    "type": "date",
+                    "name": "Publicado:",
                     "value": "2017-05-29T12:00:00+00:00"
-                }, 
+                },
                 {
-                    "name": "Idiomas:", 
+                    "name": "Idiomas:",
                     "value": "Ingl\u00e9s, Alem\u00e1n, Franc\u00e9s, Chino simplificado, Japon\u00e9s y Espa\u00f1ol (Latinoam\u00e9rica)."
                 }
-            ], 
-            "title": "Dash", 
-            "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
-            "contentIdentifier": "com.wonderworkshop.dashbook", 
+            ],
+            "title": "Dash",
+            "contentVersion": "1.0",
+            "overviewSubtitle": "El cuentacuentos y el robot travieso",
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+            "thumbnailURL": "../../Content/Dash/en_lproj/StoreBanner_2x.png",
             "sha512": "561663bae118b4725864f4418c3c2e15dfa7dd39e8708180332ef654a423f0ddd27eafddb8b357f659538bfd81edcbc2a23cd297819e764fa0bebb9b10faad39"
-        }, 
+        },
         {
-            "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/DashTemplate/es_419_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/DashTemplate/es_419_lproj/StoreBanner_2x.png", 
-            "overviewSubtitle": "Programa a Dash el robot", 
-            "description": "Usa Swift para controlar a Dash el robot. Explora los comandos que hacen que Dash se mueva, se encienda, emita sonidos y responda al mundo que lo rodea. \u00bfQu\u00e9 puedes programar para que Dash haga?", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/DashTemplate/DashTemplate.playgroundbook.zip", 
+            "previewImageURLs": [],
+            "bannerImageURL": "../../Content/DashTemplate/en_lproj/DetailsBanner_2x.png",
+            "contentIdentifier": "com.wonderworkshop.playground.template",
+            "description": "Usa Swift para controlar a Dash el robot. Explora los comandos que hacen que Dash se mueva, se encienda, emita sonidos y responda al mundo que lo rodea. \u00bfQu\u00e9 puedes programar para que Dash haga?",
+            "publishedDate": "2017-05-29T12:00:00+00:00",
+            "url": "../../Content/DashTemplate/DashTemplate.playgroundbook.zip",
             "additionalInformation": [
                 {
-                    "name": "Editor:", 
+                    "name": "Editor:",
                     "value": "Wonder Workshop, Inc."
-                }, 
+                },
                 {
-                    "name": "Versi\u00f3n:", 
+                    "name": "Versi\u00f3n:",
                     "value": "1.0"
-                }, 
+                },
                 {
-                    "type": "date", 
-                    "name": "Publicado:", 
+                    "type": "date",
+                    "name": "Publicado:",
                     "value": "2017-05-29T12:00:00+00:00"
-                }, 
+                },
                 {
-                    "name": "Idiomas:", 
+                    "name": "Idiomas:",
                     "value": "Ingl\u00e9s, Alem\u00e1n, Franc\u00e9s, Chino simplificado, Japon\u00e9s y Espa\u00f1ol (Latinoam\u00e9rica)."
                 }
-            ], 
-            "title": "Plantilla de Dash", 
-            "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
-            "contentIdentifier": "com.wonderworkshop.playground.template", 
+            ],
+            "title": "Plantilla de Dash",
+            "contentVersion": "1.0",
+            "overviewSubtitle": "Programa a Dash el robot",
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+            "thumbnailURL": "../../Content/DashTemplate/en_lproj/StoreBanner_2x.png",
             "sha512": "5437ecb9cc6dd2c3cf8fa7835047cad199fc713fcb64989cb3e77c6bb0ca9617a498841664189cb9827d0db3ab6dcadb39681043373aa66ab85cdc7b3a76eb18"
         }
-    ], 
-    "publisherName": "Wonder Workshop", 
-    "title": "Wonder Workshop", 
-    "formatVersion": "1.0", 
-    "feedIdentifier": "com.wonderworkshop", 
+    ],
+    "publisherName": "Wonder Workshop",
+    "title": "Wonder Workshop",
+    "formatVersion": "1.0",
+    "feedIdentifier": "com.wonderworkshop",
     "contactURL": "mailto:support@makewonder.com"
 }
