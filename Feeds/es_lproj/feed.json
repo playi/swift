@@ -3,7 +3,7 @@
         {
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/Dash/DetailsBanner_2x.png",
-            "thumbnailURL": "../../Content/Dash/StoreBanner_2x.png",
+            "contentIdentifier": "com.wonderworkshop.dashbook",
             "description": "Use Swift and a Dash robot to tell a story about a day at the races.\n\nBring the story to life using Dash\u2019s motion, lights, and sounds. You can use Dash\u2019s sensors that detect obstacles or sounds to add an interactive element, too. Once you\u2019ve learned how to control Dash, you can create your own story with the robot as the main character.",
             "publishedDate": "2017-05-29T12:00:00+00:00",
             "url": "../../Content/Dash/dashbook.playgroundbook.zip",
@@ -29,14 +29,14 @@
             "title": "Dash",
             "contentVersion": "1.1",
             "overviewSubtitle": "Storytelling with a Playful Robot",
-            "lastUpdatedDate": "2019-04-10T20:50:00+00:00",
-            "contentIdentifier": "com.wonderworkshop.dashbook",
-            "sha512": "9729d78a569061fd6cbe8cdc8e80d043bd2d87ce23fdbcb9b498e81ecd5192cae22fb2fd1b177c5f5cb342dea899aa3f9427b14a00eeaebabac3cc916dcb15ad"
+            "lastUpdatedDate": "2019-05-17T06:00:00+00:00",
+            "thumbnailURL": "../../Content/Dash/StoreBanner_2x.png",
+            "sha512": "01657309d22521318907d8f927b5dad6a3a75b7701f784b8974ad414b8849025d74023db4745000b9a7d1563c13448b296235f36a766b7709714b5e0ac048ebe"
         },
         {
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/DashTemplate/DetailsBanner_2x.png",
-            "thumbnailURL": "../../Content/DashTemplate/StoreBanner_2x.png",
+            "contentIdentifier": "com.wonderworkshop.playground.template",
             "description": "Use Swift to control a Dash robot. Explore commands that make Dash move, light up, play sounds, and respond to the world around it. What can you program Dash to do?",
             "publishedDate": "2017-05-29T12:00:00+00:00",
             "url": "../../Content/DashTemplate/DashTemplate.playgroundbook.zip",
@@ -62,9 +62,9 @@
             "title": "Dash Template",
             "contentVersion": "1.1",
             "overviewSubtitle": "Program Dash the Robot",
-            "lastUpdatedDate": "2019-04-10T20:50:00+00:00",
-            "contentIdentifier": "com.wonderworkshop.playground.template",
-            "sha512": "7e4dbd33b36255061eaa4fddb4293fe236c9813ea43a40a5cd94b59ad33d70170ce9e3aeb4dee2d33161d9967cfaee8feee14380a92bbc76511eda579f01235b"
+            "lastUpdatedDate": "2019-05-17T06:00:00+00:00",
+            "thumbnailURL": "../../Content/DashTemplate/StoreBanner_2x.png",
+            "sha512": "3bda38c5b37dffaf566012b08f6060c443ca92ac1e8b1dad5500793c96464bd2d81af2a75262fdcfaf2e4b2cde2c2b65444c8c5eda4b6c11a56bbca83b01308d"
         }
     ],
     "publisherName": "Wonder Workshop",
